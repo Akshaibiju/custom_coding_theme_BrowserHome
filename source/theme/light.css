@@ -1,0 +1,18 @@
+* {
+    color: #0066be !important;
+}
+.cn {
+    background-color: #ffffff !important;
+}
+.child-2 {
+    background-color: #ddeaeb !important;
+}
+.search-input {
+    background-color: #ffffff !important;
+}
+.child-1 .children {
+    background-color: #ffffff !important;
+}
+.child-1 .children:hover {
+    background-color: aliceblue !important;
+}
